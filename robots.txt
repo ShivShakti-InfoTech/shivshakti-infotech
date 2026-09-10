@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.shivshakti-infotech.in/sitemap.xml
